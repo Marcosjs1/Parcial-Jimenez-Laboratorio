@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Calculador_MarcosJimenez {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-        int n1, n2, sum, opcion;
+        float n1, n2, sum, opcion;
         float result;
         result = 0;
         while (true) {
